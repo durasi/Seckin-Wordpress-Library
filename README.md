@@ -1,2 +1,2 @@
 # Seckin-Wordpress-Library
-I share my PHP library for everyone to use.
+I share my Wordpress library for everyone to use.
